@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ramgaikar/epic-kung-fu-panda-nft-game/static/css/main.959d1b58.css",
-    "main.js": "/ramgaikar/epic-kung-fu-panda-nft-game/static/js/main.2492ac54.js",
-    "static/js/787.fd466e5c.chunk.js": "/ramgaikar/epic-kung-fu-panda-nft-game/static/js/787.fd466e5c.chunk.js",
-    "index.html": "/ramgaikar/epic-kung-fu-panda-nft-game/index.html",
-    "main.959d1b58.css.map": "/ramgaikar/epic-kung-fu-panda-nft-game/static/css/main.959d1b58.css.map",
-    "main.2492ac54.js.map": "/ramgaikar/epic-kung-fu-panda-nft-game/static/js/main.2492ac54.js.map",
-    "787.fd466e5c.chunk.js.map": "/ramgaikar/epic-kung-fu-panda-nft-game/static/js/787.fd466e5c.chunk.js.map"
+    "main.css": "/epic-kung-fu-panda-nft-game/static/css/main.959d1b58.css",
+    "main.js": "/epic-kung-fu-panda-nft-game/static/js/main.3d225e10.js",
+    "static/js/787.fd466e5c.chunk.js": "/epic-kung-fu-panda-nft-game/static/js/787.fd466e5c.chunk.js",
+    "index.html": "/epic-kung-fu-panda-nft-game/index.html",
+    "main.959d1b58.css.map": "/epic-kung-fu-panda-nft-game/static/css/main.959d1b58.css.map",
+    "main.3d225e10.js.map": "/epic-kung-fu-panda-nft-game/static/js/main.3d225e10.js.map",
+    "787.fd466e5c.chunk.js.map": "/epic-kung-fu-panda-nft-game/static/js/787.fd466e5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.959d1b58.css",
-    "static/js/main.2492ac54.js"
+    "static/js/main.3d225e10.js"
   ]
 }
