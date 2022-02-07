@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ramgaikar/epic-kung-fu-panda-nft-games/static/css/main.959d1b58.css",
+    "main.js": "/ramgaikar/epic-kung-fu-panda-nft-games/static/js/main.1422efd1.js",
+    "static/js/787.fd466e5c.chunk.js": "/ramgaikar/epic-kung-fu-panda-nft-games/static/js/787.fd466e5c.chunk.js",
+    "index.html": "/ramgaikar/epic-kung-fu-panda-nft-games/index.html",
+    "main.959d1b58.css.map": "/ramgaikar/epic-kung-fu-panda-nft-games/static/css/main.959d1b58.css.map",
+    "main.1422efd1.js.map": "/ramgaikar/epic-kung-fu-panda-nft-games/static/js/main.1422efd1.js.map",
+    "787.fd466e5c.chunk.js.map": "/ramgaikar/epic-kung-fu-panda-nft-games/static/js/787.fd466e5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.959d1b58.css",
+    "static/js/main.1422efd1.js"
+  ]
+}
